@@ -29,7 +29,7 @@
 				<div class="rounded-lg p-8">
 					<div class="space-y-6 text-center text-lg md:text-3xl">
 						<p>+33 6 58 78 25 61</p>
-						<p>duoaroundmidnight@gmail.com</p>
+						<p>harriet.duo.jazz@gmail.com</p>
 						<div class="flex justify-center space-x-6 pt-6">
 							<a
 								href="https://www.instagram.com/harriet.duo?igsh=MXFrZHVmN2o0c2F2bQ%3D%3D"
