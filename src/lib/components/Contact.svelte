@@ -14,7 +14,7 @@
 			<picture>
 				<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/contact.jpg')} />
 				<img
-					src={getOptimizedImagePath('/images/trioBlack&White.jpg')}
+					src={getOptimizedImagePath('/images/duoBlack&White.jpg')}
 					alt="Contact Around Midnight"
 					class="w-full object-cover object-[60%_40%] transition-opacity duration-1000 md:object-center {imageLoaded
 						? 'opacity-100'
@@ -29,10 +29,10 @@
 				<div class="rounded-lg p-8">
 					<div class="space-y-6 text-center text-lg md:text-3xl">
 						<p>+33 6 58 78 25 61</p>
-						<p>trioaroundmidnight@gmail.com</p>
+						<p>duoaroundmidnight@gmail.com</p>
 						<div class="flex justify-center space-x-6 pt-6">
 							<a
-								href="https://www.instagram.com/around.midnight.trio/"
+								href="https://www.instagram.com/around.midnight.duo/"
 								class="text-white transition-transform hover:scale-110 hover:opacity-80"
 								target="_blank"
 								rel="noopener noreferrer"

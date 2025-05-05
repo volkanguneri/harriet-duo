@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Banner from '$lib/components/Banner.svelte';
-	import Trio from '$lib/components/Trio.svelte';
+	import Duo from '$lib/components/Duo.svelte';
 	import Musicians from '$lib/components/Musicians.svelte';
 	import Gallery from '$lib/components/Gallery.svelte';
 	import Video from '$lib/components/Video.svelte';
@@ -9,8 +9,8 @@
 
 <div class="relative min-h-screen">
 	<Banner />
-	<section id="trio" class="mb-12 mt-10 scroll-mt-16 md:my-16">
-		<Trio />
+	<section id="duo" class="mb-12 mt-10 scroll-mt-16 md:my-16">
+		<Duo />
 	</section>
 	<section id="musicians" class="scroll-mt-16 md:mb-16">
 		<Musicians />

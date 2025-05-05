@@ -5,7 +5,7 @@
 	const toggleMenu = () => (isMenuOpen = !isMenuOpen);
 
 	const menuItems = [
-		{ href: '#trio', key: 'menu.trio' },
+		{ href: '#duo', key: 'menu.duo' },
 		{ href: '#musicians', key: 'menu.musicians' },
 		{ href: '#gallery', key: 'menu.gallery' },
 		{ href: '#videos', key: 'menu.videos' },

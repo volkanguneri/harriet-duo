@@ -5,10 +5,10 @@
 <svelte:head>
 	<!-- Méta-tags de base -->
 	<title>{t('banner.title')} - {t('banner.subtitle')}</title>
-	<meta name="description" content={t('trio.description.0')} />
+	<meta name="description" content={t('duo.description.0')} />
 	<meta
 		name="keywords"
-		content="jazz, blues, trio, musique, Rennes, Bretagne, Around Midnight, Juliette Chevalier, Arnaud Lacarte, Hugues Lasserre"
+		content="jazz, blues, duo, musique, Rennes, Bretagne, Around Midnight, Juliette Chevalier, Arnaud Lacarte"
 	/>
 	<meta name="author" content="Around Midnight" />
 	<meta name="robots" content="index, follow" />
@@ -18,7 +18,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://volkanguneri.github.io/Around_Midnight_Website/" />
 	<meta property="og:title" content={t('banner.title')} />
-	<meta property="og:description" content={t('trio.description.0')} />
+	<meta property="og:description" content={t('duo.description.0')} />
 	<meta
 		property="og:image"
 		content="https://volkanguneri.github.io/Around_Midnight_Website/images/optimized/main.webp"
@@ -28,7 +28,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:url" content="https://volkanguneri.github.io/Around_Midnight_Website/" />
 	<meta name="twitter:title" content={t('banner.title')} />
-	<meta name="twitter:description" content={t('trio.description.0')} />
+	<meta name="twitter:description" content={t('duo.description.0')} />
 	<meta
 		name="twitter:image"
 		content="https://volkanguneri.github.io/Around_Midnight_Website/images/optimized/main.webp"

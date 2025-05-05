@@ -15,10 +15,6 @@
 		{
 			id: 'arnaud',
 			imageSrc: getOptimizedImagePath('/images/optimized/arnaud.webp')
-		},
-		{
-			id: 'hugues',
-			imageSrc: getOptimizedImagePath('/images/optimized/hugues.webp')
 		}
 	];
 </script>

@@ -84,23 +84,18 @@
 			altKey: 'banner.title'
 		},
 		{
-			src: getOptimizedImagePath('/images/optimized/trio-photo.webp'),
-			altKey: 'menu.trio'
+			src: getOptimizedImagePath('/images/optimized/duo-photo.webp'),
+			altKey: 'menu.duo'
 		},
 		{
 			src: getOptimizedImagePath('/images/optimized/juliette.webp'),
 			altKey: 'musicians.juliette.name',
-			alt: 'Juliette Chevalier - Chanteuse du trio de jazz Around Midnight'
+			alt: 'Juliette Chevalier - Chanteuse du duo de jazz Around Midnight'
 		},
 		{
 			src: getOptimizedImagePath('/images/optimized/arnaud.webp'),
 			altKey: 'musicians.arnaud.name',
-			alt: 'Arnaud Lacarte - Guitariste du trio de jazz Around Midnight'
-		},
-		{
-			src: getOptimizedImagePath('/images/optimized/hugues.webp'),
-			altKey: 'musicians.hugues.name',
-			alt: 'Hugues Lasserre - Contrebassiste du trio de jazz Around Midnight'
+			alt: 'Arnaud Lacarte - Guitariste du duo de jazz Around Midnight'
 		}
 	];
 

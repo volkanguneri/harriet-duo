@@ -9,7 +9,7 @@ export const translations = {
 		},
 		// Header
 		menu: {
-			trio: 'Le Trio',
+			duo: 'Le Duo',
 			musicians: 'Les Musiciens',
 			gallery: 'Galerie',
 			videos: 'Vidéos',
@@ -17,16 +17,16 @@ export const translations = {
 		},
 		// Banner
 		banner: {
-			title: 'Around Midnight',
-			subtitle: 'Blues & Jazz',
-			cta: 'Découvrir'
+			title: 'Harriet Duo',
+			subtitle: 'Blues & Jazz'
 		},
-		// Trio section
-		trio: {
-			title: 'Le Trio',
+		// Duo section
+		duo: {
+			title: 'Le Duo',
 			description: [
-				"Envie d'une soirée où la musique vous fait vibrer autant que la danse ? Around Midnight est le trio idéal pour donner vie à vos événements blues. Avec un répertoire éclectique mêlant Amy Winehouse, David Bowie, Ella Fitzgerald et bien d'autres, le groupe tisse un univers à la fois envoûtant et énergique.",
-				"La voix intense et expressive de Juliette Chevalier, portée par le jeu virtuose d'Arnaud Lacarte à la guitare et les lignes d'Hugues Lasserre à la contrebasse, crée une ambiance irrésistible. Entre joie, intensité et émotion, laissez-vous emporter par la profondeur d'une musique vivante, faite pour être partagée pleinement."
+				'Harriet Duo est un duo élégant et chaleureux, né de la rencontre entre une voix douce et expressive, celle de Juliette Chevalier, et une guitare aux sonorités boisées, jouée avec finesse par Arnaud Lacarte. Ensemble, ils revisitent les grands standards du jazz, du blues et de la chanson française, avec une touche personnelle et délicate.',
+				"Leur musique crée une ambiance intime et raffinée, idéale pour accompagner les moments d'une soirée conviviale : apéritifs au coucher du soleil, soirées feutrées ou instants plus festifs. Entre swing léger, ballades romantiques et clins d'œil aux classiques, Harriet Duo offre une expérience musicale à la fois accessible, élégante et pleine de charme.",
+				"Un duo complice, sincère et toujours attentif à son public, qui saura séduire les auditeurs en quête de douceur, de qualité… et d'un brin de poésie."
 			]
 		},
 		// Musicians section
@@ -41,11 +41,6 @@ export const translations = {
 				name: 'Arnaud Lacarte',
 				instrument: 'Guitare',
 				bio: "C'est à l'été 1996, à l'âge de 13 ans, qu'Arnaud découvre la guitare. Très vite, il intègre une école de musique pour en maîtriser les fondements. Fasciné par les harmonies jazz, il poursuit son apprentissage dans une école spécialisée, puis au Conservatoire de Nantes, affinant peu à peu son style et son langage musical.\n\nDepuis plus de vingt ans, Arnaud se produit sur scène aux côtés de nombreux groupes, explorant divers styles musicaux. Il partage notamment la scène avec le contrebassiste Hugues Lassere au sein du trio manouche Opus Swing.\n\nL'été 2025 marque sa rencontre avec Juliette Chevalier, avec qui il fonde le trio Around Midnight, mêlant élégance, sensibilité et passion pour les musiques aux teintes feutrées."
-			},
-			hugues: {
-				name: 'Hugues Lassere',
-				instrument: 'Contrebasse',
-				bio: "Né à Vannes en Bretagne en 1984, Hugues Lassere grandit au sein d'une famille de musiciens. Il débute son apprentissage musical dès l'âge de 8 ans en étudiant la guitare et le piano classique. À 15 ans, il commence à se produire avec des groupes locaux et fait la découverte du jazz et de la basse électrique. Cependant, c'est la contrebasse qui capte particulièrement son attention et qu'il choisit d'approfondir.\n\nSon parcours musical le conduit au Conservatoire Royal de Bruxelles, puis au CRR de Saint-Maur-des-Fossés, où il se consacre à l'étude de la contrebasse classique pendant 7 ans. Après cette période, Hugues décide de revenir dans sa région d'origine, la Bretagne, où il collabore avec de nombreux musiciens et ensembles. Il organise également la jam session du dimanche au Penny Lane à Rennes."
 			}
 		},
 		// Gallery
@@ -77,7 +72,7 @@ export const translations = {
 		},
 		// Header
 		menu: {
-			trio: 'The Trio',
+			duo: 'The Duo',
 			musicians: 'Musicians',
 			gallery: 'Gallery',
 			videos: 'Videos',
@@ -85,16 +80,16 @@ export const translations = {
 		},
 		// Banner
 		banner: {
-			title: 'Around Midnight',
-			subtitle: 'Blues & Jazz',
-			cta: 'Discover'
+			title: 'Harriet Duo',
+			subtitle: 'Blues & Jazz'
 		},
-		// Trio section
-		trio: {
-			title: 'The Trio',
+		// Duo section
+		duo: {
+			title: 'The Duo',
 			description: [
-				'Looking for an evening where music makes you vibrate as much as dancing? Around Midnight is the ideal trio to bring your blues events to life. With an eclectic repertoire blending Amy Winehouse, David Bowie, Ella Fitzgerald and many others, the group weaves a universe that is both enchanting and energetic.',
-				"The intense and expressive voice of Juliette Chevalier, carried by Arnaud Lacarte's virtuoso guitar playing and Hugues Lasserre's double bass, creates an irresistible atmosphere. Between joy, intensity and emotion, let yourself be carried away by the depth of living music, made to be fully shared."
+				'Harriet Duo is a duo elegant and warm, born from the encounter between a soft and expressive voice, that of Juliette Chevalier, and a guitar with wood tones, played with finesse by Arnaud Lacarte. Together, they revisit the great standards of jazz, blues and French song, with a personal touch and delicacy.',
+				'Their music creates an intimate and refined atmosphere, ideal for accompanying convivial moments: sunsets aperitifs, quiet evenings or more festive moments. Between light swing, romantic ballads and winks at classics, Harriet Duo offers a musical experience that is accessible, elegant and full of charm.',
+				'A complicit duo, sincere and always attentive to its audience, who will know to seduce listeners in search of tenderness, quality... and a touch of poetry.'
 			]
 		},
 		// Musicians section
@@ -109,11 +104,6 @@ export const translations = {
 				name: 'Arnaud Lacarte',
 				instrument: 'Guitar',
 				bio: 'It was in the summer of 1996, at the age of 13, that Arnaud discovered the guitar. He quickly joined a music school to master its fundamentals. Fascinated by jazz harmonies, he continued his learning at a specialized school, then at the Nantes Conservatory, gradually refining his style and musical language.\n\nFor more than twenty years, Arnaud has performed on stage alongside numerous bands, exploring various musical styles. He notably shares the stage with double bassist Hugues Lassere in the gypsy jazz trio Opus Swing.\n\nThe summer of 2025 marks his encounter with Juliette Chevalier, with whom he founded the Around Midnight trio, blending elegance, sensitivity, and passion for music with muted tones.'
-			},
-			hugues: {
-				name: 'Hugues Lassere',
-				instrument: 'Double bass',
-				bio: 'Born in Vannes, Brittany in 1984, Hugues Lassere grew up in a family of musicians. He began his musical journey at the age of 8, studying classical guitar and piano. At 15, he started performing with local bands and discovered jazz and electric bass. However, it was the double bass that particularly captured his attention and became his chosen focus.\n\nHis musical path led him to the Royal Conservatory of Brussels, then to the CRR of Saint-Maur-des-Fossés, where he devoted himself to studying classical double bass for 7 years. After this period, Hugues decided to return to his native region, Brittany, where he collaborates with numerous musicians and ensembles. He also organizes the Sunday jam session at Penny Lane in Rennes.'
 			}
 		},
 		// Gallery
