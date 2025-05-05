@@ -9,7 +9,10 @@ const config = {
 			fallback: 'index.html',
 			strict: false
 		}),
-
+		// Add base path for GitHub Pages
+		paths: {
+			base: ''
+		},
 		prerender: {
 			handleHttpError: 'warn',
 			entries: ['*']
