@@ -10,6 +10,26 @@
 
 	const images: GalleryImage[] = [
 		{
+			src: getOptimizedImagePath('/images/optimized/06.webp'),
+			altKey: 'gallery.concert10',
+			alt: 'Concert Harriet Duo'
+		},
+		{
+			src: getOptimizedImagePath('/images/optimized/07.webp'),
+			altKey: 'gallery.concert11',
+			alt: 'Concert Harriet Duo'
+		},
+		{
+			src: getOptimizedImagePath('/images/optimized/bgBannerDesktop.webp'),
+			altKey: 'gallery.concert11',
+			alt: 'Concert Harriet Duo'
+		},
+		{
+			src: getOptimizedImagePath('/images/optimized/duoDesktop.webp'),
+			altKey: 'gallery.concert11',
+			alt: 'Concert Harriet Duo'
+		},
+		{
 			src: getOptimizedImagePath('/images/optimized/01.webp'),
 			altKey: 'gallery.concert5',
 			alt: 'Concert Harriet Duo'
@@ -32,16 +52,6 @@
 		{
 			src: getOptimizedImagePath('/images/optimized/05.webp'),
 			altKey: 'gallery.concert9',
-			alt: 'Concert Harriet Duo'
-		},
-		{
-			src: getOptimizedImagePath('/images/optimized/06.webp'),
-			altKey: 'gallery.concert10',
-			alt: 'Concert Harriet Duo'
-		},
-		{
-			src: getOptimizedImagePath('/images/optimized/07.webp'),
-			altKey: 'gallery.concert11',
 			alt: 'Concert Harriet Duo'
 		}
 	];
