@@ -54,6 +54,7 @@ jobs:
           cp -r static/images/optimized/* build/images/optimized/
           cp static/robots.txt build/
           cp static/sitemap.xml build/
+          cp CNAME build/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
