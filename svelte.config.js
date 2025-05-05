@@ -21,10 +21,7 @@ const config = {
 		prerender: {
 			handleHttpError: 'warn',
 			entries: ['*']
-		},
-		
-		// Allow SPA to handle 404s
-		trailingSlash: 'never'
+		}
 	}
 };
 
