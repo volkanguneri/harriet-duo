@@ -5,18 +5,26 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
 	preprocess: vitePreprocess(),
 	kit: {
+		// Use static adapter for GitHub Pages
 		adapter: adapter({
+			// Use index.html for all routes (SPA fallback)
 			fallback: 'index.html',
 			strict: false
 		}),
-		// Add base path for GitHub Pages
+		
+		// Empty base path for custom domain
 		paths: {
 			base: ''
 		},
+		
+		// Prerender all routes
 		prerender: {
 			handleHttpError: 'warn',
 			entries: ['*']
-		}
+		},
+		
+		// Allow SPA to handle 404s
+		trailingSlash: 'never'
 	}
 };
 

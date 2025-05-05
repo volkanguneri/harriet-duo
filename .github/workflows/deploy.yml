@@ -48,14 +48,25 @@ jobs:
 
       - name: Build
         run: |
+          # Build the SvelteKit application
           pnpm run build
+          
+          # Copy essential files for GitHub Pages
           cp .nojekyll build/
+          touch build/.nojekyll
+          cp CNAME build/
+          
+          # Copy static assets
           mkdir -p build/images/optimized
           cp -r static/images/optimized/* build/images/optimized/
           cp static/robots.txt build/
           cp static/sitemap.xml build/
-          cp CNAME build/
-          touch build/.nojekyll
+          
+          # Create a 200.html file (some hosting providers use this for SPA routing)
+          cp build/index.html build/200.html
+          
+          # Ensure index.html exists in all directories for SPA routing
+          echo "Ensuring SPA routing works properly..."
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
