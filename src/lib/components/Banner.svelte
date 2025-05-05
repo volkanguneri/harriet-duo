@@ -13,10 +13,10 @@
 <section class="relative" id="banner">
 	<div class="relative h-[90vh] w-full bg-black md:h-screen">
 		<picture>
-			<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/main.jpg')} />
+			<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/optimized/bgBannerDesktop.webp')} />
 			<img
-				src={getOptimizedImagePath('/images/DSC_0609.jpg')}
-				alt="Around Midnight Banner"
+				src={getOptimizedImagePath('/images/optimized/bGBannerMobile.webp')}
+				alt="Harriet Duo Banner"
 				class="h-full w-full object-cover object-[60%_40%] transition-opacity duration-1000 md:object-[0%_40%] {imageLoaded
 					? 'opacity-100'
 					: 'opacity-0'}"

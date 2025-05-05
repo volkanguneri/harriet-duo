@@ -8,9 +8,9 @@
 	<meta name="description" content={t('duo.description.0')} />
 	<meta
 		name="keywords"
-		content="jazz, blues, duo, musique, Rennes, Bretagne, Around Midnight, Juliette Chevalier, Arnaud Lacarte"
+		content="jazz, blues, duo, musique, Rennes, Bretagne, Harriet Duo, Juliette Chevalier, Arnaud Lacarte"
 	/>
-	<meta name="author" content="Around Midnight" />
+	<meta name="author" content="Harriet Duo" />
 	<meta name="robots" content="index, follow" />
 	<link rel="canonical" href="https://volkanguneri.github.io/Around_Midnight_Website/" />
 

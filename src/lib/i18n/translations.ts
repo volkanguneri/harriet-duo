@@ -40,19 +40,18 @@ export const translations = {
 			arnaud: {
 				name: 'Arnaud Lacarte',
 				instrument: 'Guitare',
-				bio: "C'est à l'été 1996, à l'âge de 13 ans, qu'Arnaud découvre la guitare. Très vite, il intègre une école de musique pour en maîtriser les fondements. Fasciné par les harmonies jazz, il poursuit son apprentissage dans une école spécialisée, puis au Conservatoire de Nantes, affinant peu à peu son style et son langage musical.\n\nDepuis plus de vingt ans, Arnaud se produit sur scène aux côtés de nombreux groupes, explorant divers styles musicaux. Il partage notamment la scène avec le contrebassiste Hugues Lassere au sein du trio manouche Opus Swing.\n\nL'été 2025 marque sa rencontre avec Juliette Chevalier, avec qui il fonde le trio Around Midnight, mêlant élégance, sensibilité et passion pour les musiques aux teintes feutrées."
+				bio: "C'est à l'été 1996, à l'âge de 13 ans, qu'Arnaud découvre la guitare. Très vite, il intègre une école de musique pour en maîtriser les fondements. Fasciné par les harmonies jazz, il poursuit son apprentissage dans une école spécialisée, puis au Conservatoire de Nantes, affinant peu à peu son style et son langage musical.\n\nDepuis plus de vingt ans, Arnaud se produit sur scène aux côtés de nombreux groupes, explorant divers styles musicaux. Il partage notamment la scène avec le contrebassiste Hugues Lassere au sein du trio manouche Opus Swing.\n\nL'été 2025 marque sa rencontre avec Juliette Chevalier, avec qui il fonde le duo Harriet, mêlant élégance, sensibilité et passion pour les musiques aux teintes feutrées."
 			}
 		},
 		// Gallery
 		gallery: {
 			title: 'Galerie',
-			concert1: 'Concert Around Midnight',
-			concert2: 'Concert Around Midnight',
-			concert3: 'Concert Around Midnight',
-			concert4: 'Concert Around Midnight',
-			affiche1: 'Affiche festival Around Midnight',
-			presentation1: 'Présentation Around Midnight',
-			description: 'Découvrez nos moments sur scène'
+			concert1: 'Concert Harriet Duo',
+			concert2: 'Concert Harriet Duo',
+			concert3: 'Concert Harriet Duo',
+			concert4: 'Concert Harriet Duo',
+			affiche1: 'Affiche festival Harriet Duo',
+			presentation1: 'Présentation Harriet Duo'
 		},
 		// Videos
 		videos: {
@@ -103,18 +102,18 @@ export const translations = {
 			arnaud: {
 				name: 'Arnaud Lacarte',
 				instrument: 'Guitar',
-				bio: 'It was in the summer of 1996, at the age of 13, that Arnaud discovered the guitar. He quickly joined a music school to master its fundamentals. Fascinated by jazz harmonies, he continued his learning at a specialized school, then at the Nantes Conservatory, gradually refining his style and musical language.\n\nFor more than twenty years, Arnaud has performed on stage alongside numerous bands, exploring various musical styles. He notably shares the stage with double bassist Hugues Lassere in the gypsy jazz trio Opus Swing.\n\nThe summer of 2025 marks his encounter with Juliette Chevalier, with whom he founded the Around Midnight trio, blending elegance, sensitivity, and passion for music with muted tones.'
+				bio: 'It was in the summer of 1996, at the age of 13, that Arnaud discovered the guitar. He quickly joined a music school to master its fundamentals. Fascinated by jazz harmonies, he continued his learning at a specialized school, then at the Nantes Conservatory, gradually refining his style and musical language.\n\nFor more than twenty years, Arnaud has performed on stage alongside numerous bands, exploring various musical styles. He notably shares the stage with double bassist Hugues Lassere in the gypsy jazz trio Opus Swing.\n\nThe summer of 2025 marks his encounter with Juliette Chevalier, with whom he founded the duo Harriet, blending elegance, sensitivity, and passion for music with muted tones.'
 			}
 		},
 		// Gallery
 		gallery: {
 			title: 'Gallery',
-			concert1: 'Around Midnight Concert',
-			concert2: 'Around Midnight Concert',
-			concert3: 'Around Midnight Concert',
-			concert4: 'Around Midnight Concert',
-			affiche1: 'Around Midnight Festival Poster',
-			presentation1: 'Around Midnight Presentation',
+			concert1: 'Harriet Duo Concert',
+			concert2: 'Harriet Duo Concert',
+			concert3: 'Harriet Duo Concert',
+			concert4: 'Harriet Duo Concert',
+			affiche1: 'Harriet Duo Festival Poster',
+			presentation1: 'Harriet Duo Presentation',
 			description: 'Discover our stage moments'
 		},
 		// Videos

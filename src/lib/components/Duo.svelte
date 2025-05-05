@@ -12,9 +12,9 @@
 <section class="relative" id="duo">
 	<div class="relative w-full">
 		<picture>
-			<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/duo-photo.jpg')} />
+			<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/optimized/duoDesktop.webp')} />
 			<img
-				src={getOptimizedImagePath('/images/duoColor.jpg')}
+				src={getOptimizedImagePath('/images/optimized/duoMobile.webp')}
 				alt="Harriet Duo"
 				class="w-full object-cover object-[60%_40%] transition-opacity duration-1000 md:object-center {imageLoaded
 					? 'opacity-100'

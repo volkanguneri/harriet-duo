@@ -10,7 +10,7 @@
 	const musicians: Musician[] = [
 		{
 			id: 'juliette',
-			imageSrc: getOptimizedImagePath('/images/optimized/juliette.webp')
+			imageSrc: getOptimizedImagePath('/images/optimized/julliette.webp')
 		},
 		{
 			id: 'arnaud',

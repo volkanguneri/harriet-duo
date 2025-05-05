@@ -12,10 +12,10 @@
 	<div class="relative w-full bg-black">
 		<div class="relative w-full">
 			<picture>
-				<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/contact.jpg')} />
+				<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/optimized/contactDesktop.webp')} />
 				<img
-					src={getOptimizedImagePath('/images/duoBlack&White.jpg')}
-					alt="Contact Around Midnight"
+					src={getOptimizedImagePath('/images/optimized/contactMobile.webp')}
+					alt="Contact Harriet Duo"
 					class="w-full object-cover object-[60%_40%] transition-opacity duration-1000 md:object-center {imageLoaded
 						? 'opacity-100'
 						: 'opacity-0'}"

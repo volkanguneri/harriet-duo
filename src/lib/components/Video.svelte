@@ -3,20 +3,20 @@
 
 	const videos = [
 		{
-			id: 'SJvCj6vMY5E',
-			title: 'Around Midnight - Performance 5'
+			id: 'yinOR2BH0wA',
+			title: 'Harriet Duo - Performance 1'
 		},
 		{
-			id: 'Rvmab45fgeg',
-			title: 'Around Midnight - Performance 6'
+			id: 'zqMIywreWE0',
+			title: 'Harriet Duo - Performance 2'
 		},
 		{
-			id: 'Mn6HL3cAN1s',
-			title: 'Around Midnight - Performance 7'
+			id: 'vb6qZsXXz4s',
+			title: 'Harriet Duo - Performance 3'
 		},
 		{
-			id: 'flbVSP-csX8',
-			title: 'Around Midnight - Performance 8'
+			id: 'FpJmehxUawc',
+			title: 'Harriet Duo - Performance 4'
 		}
 	];
 </script>
