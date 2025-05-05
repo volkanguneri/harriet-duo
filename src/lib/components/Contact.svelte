@@ -32,7 +32,7 @@
 						<p>duoaroundmidnight@gmail.com</p>
 						<div class="flex justify-center space-x-6 pt-6">
 							<a
-								href="https://www.instagram.com/around.midnight.duo/"
+								href="https://www.instagram.com/harriet.duo?igsh=MXFrZHVmN2o0c2F2bQ%3D%3D"
 								class="text-white transition-transform hover:scale-110 hover:opacity-80"
 								target="_blank"
 								rel="noopener noreferrer"
@@ -50,7 +50,7 @@
 								</svg>
 							</a>
 							<a
-								href="https://www.facebook.com/profile.php?id=61575350493374&sk=about"
+								href="https://www.facebook.com/share/18mUDarpgn/"
 								class="text-white transition-transform hover:scale-110 hover:opacity-80"
 								target="_blank"
 								rel="noopener noreferrer"
@@ -68,7 +68,7 @@
 								</svg>
 							</a>
 							<a
-								href="https://m.youtube.com/channel/UCUTsInt7Vr-stI9aoBnV0Yw"
+								href="https://m.youtube.com/@HarrietDuo-j7w"
 								class="text-white transition-transform hover:scale-110 hover:opacity-80"
 								target="_blank"
 								rel="noopener noreferrer"
