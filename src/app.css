@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Moon';
+	src: url('/fonts/moon.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Custom styles */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: black;
+	color: #f5f5dc;
+}
+
+/* Smooth fade-in animation */
+.fade-in {
+	animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
