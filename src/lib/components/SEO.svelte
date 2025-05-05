@@ -12,27 +12,21 @@
 	/>
 	<meta name="author" content="Harriet Duo" />
 	<meta name="robots" content="index, follow" />
-	<link rel="canonical" href="https://volkanguneri.github.io/Around_Midnight_Website/" />
+	<link rel="canonical" href="https://harrietduo.fr/" />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://volkanguneri.github.io/Around_Midnight_Website/" />
+	<meta property="og:url" content="https://harrietduo.fr/" />
 	<meta property="og:title" content={t('banner.title')} />
 	<meta property="og:description" content={t('duo.description.0')} />
-	<meta
-		property="og:image"
-		content="https://volkanguneri.github.io/Around_Midnight_Website/images/optimized/main.webp"
-	/>
+	<meta property="og:image" content="https://harrietduo.fr/images/optimized/main.webp" />
 
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:url" content="https://volkanguneri.github.io/Around_Midnight_Website/" />
+	<meta name="twitter:url" content="https://harrietduo.fr/" />
 	<meta name="twitter:title" content={t('banner.title')} />
 	<meta name="twitter:description" content={t('duo.description.0')} />
-	<meta
-		name="twitter:image"
-		content="https://volkanguneri.github.io/Around_Midnight_Website/images/optimized/main.webp"
-	/>
+	<meta name="twitter:image" content="https://harrietduo.fr/images/optimized/duoDesktop.webp" />
 
 	<!-- Autres méta-tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
