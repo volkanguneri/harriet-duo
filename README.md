@@ -1,38 +1,69 @@
-# sv
+# Harriet Duo - Site Web Officiel
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Site web officiel pour Harriet Duo, un duo de jazz et chanson française composé de Juliette Chevalier (chant) et Arnaud Lacarte (guitare).
 
-## Creating a project
+## À propos du projet
 
-If you're seeing this, you've probably already done this step. Congrats!
+Ce site présente le duo Harriet, leur musique, leurs performances et permet de les contacter pour des réservations. Le site est disponible en français et en anglais.
+
+Site web: [harrietduo.fr](https://harrietduo.fr)
+
+## Technologies utilisées
+
+- [SvelteKit](https://kit.svelte.dev/) - Framework web
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
+- [TypeScript](https://www.typescriptlang.org/) - Langage de programmation
+- [GitHub Pages](https://pages.github.com/) - Hébergement
+
+## Installation
 
 ```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+# Installer les dépendances
+npm install
+# ou
+pnpm install
 ```
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Développement
 
 ```bash
+# Lancer le serveur de développement
 npm run dev
+# ou
+pnpm dev
 
-# or start the server and open the app in a new browser tab
+# Lancer le serveur et ouvrir dans le navigateur
 npm run dev -- --open
+# ou
+pnpm dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
+## Construction et déploiement
 
 ```bash
+# Construire le site pour la production
 npm run build
+# ou
+pnpm build
+
+# Prévisualiser la version de production
+npm run preview
+# ou
+pnpm preview
 ```
 
-You can preview the production build with `npm run preview`.
+## Déploiement sur GitHub Pages
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Le site est configuré pour être déployé automatiquement sur GitHub Pages. Chaque push sur la branche principale déclenche un workflow GitHub Actions qui construit et déploie le site.
+
+## Configuration du domaine personnalisé
+
+Le site utilise un domaine personnalisé (harrietduo.fr) configuré via GitHub Pages. Le fichier CNAME à la racine du projet contient le nom de domaine.
+
+## Internationalisation
+
+Le site est disponible en français et en anglais. Les traductions sont gérées dans le fichier `src/lib/i18n/translations.ts`.
+
+## Licence
+
+Tous droits réservés Harriet Duo
