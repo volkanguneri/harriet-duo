@@ -18,7 +18,7 @@ export const translations = {
 		// Banner
 		banner: {
 			title: 'Harriet Duo',
-			subtitle: 'Blues & Jazz'
+			subtitle: 'Jazz & Chanson Française'
 		},
 		// Duo section
 		duo: {
@@ -80,7 +80,7 @@ export const translations = {
 		// Banner
 		banner: {
 			title: 'Harriet Duo',
-			subtitle: 'Blues & Jazz'
+			subtitle: 'Jazz & French Songs'
 		},
 		// Duo section
 		duo: {
