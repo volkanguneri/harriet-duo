@@ -13,6 +13,11 @@
 	<meta name="author" content="Harriet Duo" />
 	<meta name="robots" content="index, follow" />
 	<link rel="canonical" href="https://harrietduo.fr/" />
+	
+	<!-- Favicon -->
+	<link rel="icon" href="/favicon.png" type="image/png" />
+	<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+	<link rel="apple-touch-icon" href="/favicon.png" />
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website" />
