@@ -12,7 +12,10 @@
 <section class="relative" id="duo">
 	<div class="relative w-full">
 		<picture>
-			<source media="(min-width: 768px)" srcset={getOptimizedImagePath('/images/optimized/duoDesktop.webp')} />
+			<source
+				media="(min-width: 768px)"
+				srcset={getOptimizedImagePath('/images/optimized/duoDesktop.webp')}
+			/>
 			<img
 				src={getOptimizedImagePath('/images/optimized/duoMobile.webp')}
 				alt="Harriet Duo"
@@ -27,7 +30,7 @@
 			<div class="mx-auto max-w-lg px-4 sm:px-8 md:pt-0">
 				<div class="space-y-8 text-center md:space-y-8">
 					<div
-						class="space-y-8 px-2 text-justify text-base leading-relaxed md:text-lg md:leading-relaxed"
+						class="space-y-4 px-2 text-justify text-base leading-relaxed md:text-lg md:leading-relaxed"
 					>
 						{#each t('duo.description') as paragraph}
 							<p>{paragraph}</p>
